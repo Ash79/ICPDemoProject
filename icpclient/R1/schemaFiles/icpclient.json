@@ -1,0 +1,1 @@
+{"type":"object","properties":{"clientNumber":{"type":"string","format":""},"firstName":{"type":"string","format":""},"lastName":{"type":"string","format":""},"age":{"type":"integer","format":"int32"},"zipCode":{"type":"string","format":""}},"required":["clientNumber","firstName","lastName","age","zipCode"]}
